@@ -1,7 +1,7 @@
 # -CET-Desigualdad-
 <!DOCTYPE
 <html lang="en">
-<head>>
+<head>
     <title>DESIGUALDAD</title>
 </head>
 <body>
